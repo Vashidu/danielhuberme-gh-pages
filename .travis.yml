@@ -1,7 +1,7 @@
 language: ruby
 rvm:
 - 2.1
-install: gem install jekyll jekyll-gist redcarpet
+install: gem install jekyll jekyll-gist redcarpet python-pygments
 script: jekyll build
 
 # branch whitelist

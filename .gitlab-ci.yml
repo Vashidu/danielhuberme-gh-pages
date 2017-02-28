@@ -1,5 +1,7 @@
 image: ruby:2.1
 
+before_script:
+  - apt-get update -qq && apt-get install -y -qq python-pygments
 pages:
   script:
   - gem install jekyll jekyll-gist redcarpet
