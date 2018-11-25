@@ -2,7 +2,7 @@
 title: Daniel Huber
 email: mail@danielhuber.me
 description: > # this means to ignore newlines until "baseurl:"
-  Personal website and blog for Kevin Law
+  Personal website and blog for Daniel Huber
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.danielhuber.me" # the base hostname & protocol for your site
 twitter_username: sopleb
